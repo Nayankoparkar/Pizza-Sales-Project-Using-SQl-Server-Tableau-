@@ -53,8 +53,4 @@ Moreover, calculating the average number of pizzas sold per order provided valua
 - Insight 4:Visual representation of sales trends on different time scales.
 
 
-## 🔗 Optional: Live Tableau Dashboard
-[Link to Tableau Public](https://public.tableau.com/...)
 
-## 📂 Folder Structure
-# Pizza-Sales-Project-Using-SQl-Server-Tableau-
