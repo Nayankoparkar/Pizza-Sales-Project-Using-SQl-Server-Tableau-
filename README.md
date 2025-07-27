@@ -1,4 +1,4 @@
-# SQL + Tableau Project: [Project Title Here]
+# SQL + Tableau Project: [Pizza_Sales_Analysis]
 
 ## 📊 Project Overview
 This project demonstrates how to use **SQL Server** for data storage and processing, and **Tableau** for data visualization. The goal is to analyze [insert topic, e.g., Sales Performance, Customer Retention, etc.] and derive actionable business insights.
