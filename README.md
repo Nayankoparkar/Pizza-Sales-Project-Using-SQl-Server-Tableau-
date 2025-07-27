@@ -11,7 +11,7 @@ This project demonstrates how to use **SQL Server** for data storage and process
 ## 🗃️ Dataset
 - Source: [Kaggle]
 - Contents: [there are 12 columns and 48620 records init]
-- File: `pizza_sales.csv`
+- File: `pizza_sales.csv`https://github.com/Nayankoparkar/Pizza-Sales-Project-Using-SQl-Server-Tableau-/blob/main/pizza_sales.csv
 
 ## 🛠️ SQL Workflow
 - `sql/schema.sql`: Defines the table structure
