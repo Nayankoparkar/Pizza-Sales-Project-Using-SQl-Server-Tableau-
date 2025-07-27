@@ -35,6 +35,7 @@ A pizza company needs a robust and scalable data analytics solution to handle th
 - Preview:
 
 ![Dashboard Screenshot](https://github.com/Nayankoparkar/Pizza-Sales-Project-Using-SQl-Server-Tableau-/blob/main/Screenshot%20(119).png)
+![Dashboard Screenshot](https://github.com/Nayankoparkar/Pizza-Sales-Project-Using-SQl-Server-Tableau-/blob/main/Screenshot%20(120).png)
 
 - Key Features:
   - Interactive filters
